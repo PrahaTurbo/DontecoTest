@@ -35,7 +35,8 @@ Task (on russian):
 
 ## Technologies Used
 * Swift 5.6
-* SwiftUI 3.0
+* SwiftUI
+* AVFoundation
 
 ## Requirements
 * Xcode 13 or later
