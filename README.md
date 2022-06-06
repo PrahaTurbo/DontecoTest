@@ -3,7 +3,7 @@
 [![@artlast](https://img.shields.io/badge/telegram-%40artlast-blue)](https://t.me/artlast)
 
 # DontecoTest
-![promo](https://user-images.githubusercontent.com/62947475/172121124-fb9dd076-10d8-4e58-9e15-b1c9aa84f3ac.gif)
+![promo](https://user-images.githubusercontent.com/62947475/172139537-2d6d745a-3db8-4a10-ba88-0b320dc5da6e.gif)
 
 ## Table of Contents
 * [General Info](#general-information)
