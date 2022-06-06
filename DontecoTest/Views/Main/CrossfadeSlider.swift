@@ -22,6 +22,7 @@ struct CrossfadeSlider: View {
             .font(.headline)
             
             Slider(value: $audioService.crossFadeDuration, in: 2...10, step: 1)
+                .id(audioService.isPlaying)
         }
         .padding(.vertical)
         .padding(.horizontal, 5)
